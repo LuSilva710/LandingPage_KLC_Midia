@@ -43,7 +43,7 @@
 
 <h1> 📝 Licença </h1><br>
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LuSilva710/LandingPage_KCL_Midia/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LuSilva710/LandingPage_KLC_Midia/blob/main/LICENSE) para mais detalhes.
 
 ---
 Copyright (c) 2024 <br>
